@@ -1,10 +1,10 @@
 # Work-Stuff
 ## This is to tell about any experience in work that I have.
-> I never really worked on a real jobe before. 
+> I never really worked on a _real job_ before. 
 > I am mainly focusing on studying in college for now before actually thinking about going to work.
 
 ### Education
-> While I am studying in College. I actually graduated from High School and I am the 1st generation in my family to enter a college.
+> While I am studying in College. I actually graduated from High School and I am the **1st generation** in my family to enter a college.
 
 ## My Past
 > But growing up I did do things that seem like manual jobs like:
